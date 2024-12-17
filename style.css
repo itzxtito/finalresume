@@ -228,3 +228,13 @@ h3:hover::before {
   transition: background-color 5s ease-in-out, box-shadow 1s ease-in-out;
   transition: box-shadow 1s ease, transform 0.3s ease;
 }
+
+.languageheader:before{
+  color: lawngreen;
+}
+.graphicheader:before{
+  color:red
+}
+.programheader:before{
+  color: cyan;
+}
