@@ -99,6 +99,7 @@ h3:hover::before {
   padding: 25px;
   border-radius: 10px;
   margin-bottom: 30px;
+  box-shadow: 5px 5px 10px dodgerblue;
 }
 
 .skills {
